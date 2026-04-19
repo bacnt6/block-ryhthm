@@ -1,9 +1,1 @@
-# app-ads.txt — đặt tại gốc website developer (vd: https://yourdomain.com/app-ads.txt hoặc GitHub Pages).
-# Dòng bắt đầu bằng # là ghi chú; crawler thường bỏ qua.
-#
-# QUAN TRỌNG: Thay pub-3940256099942544 bằng Publisher ID TÀI KHOẢN của bạn trong AdMob:
-#   AdMob > biểu tượng tài khoản (góc phải) > Settings / Publisher information
-#   — lấy đúng 16 chữ số trong chuỗi dạng ca-app-pub-XXXXXXXXXXXXXXXX~...
-#   (trong app.json hiện tại vẫn là ID test của Google; production bắt buộc dùng ID thật.)
-#
 google.com, pub-8421988534310850, DIRECT, f08c47fec0942fa0
